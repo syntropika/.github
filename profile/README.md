@@ -1,14 +1,10 @@
 # Syntropika
 
-Syntropika is infrastructure for coordination between humans and intelligent systems.
+We build infrastructure for coordination between people and AI systems.
 
-We build systems that reduce entropy at the interfaces where minds, tools, and agents coordinate — turning noise into structure and intent into reliable execution.
+Complex work gets messy in the handoffs: context gets lost, intent gets blurred, and systems act on different versions of the same plan.
 
-## What we believe
-
-- Intelligence is not data accumulation — it’s coordination over time.
-- Interfaces accumulate entropy: noise, fragmentation, and chaos.
-- Our job is to push: **ΔS → 0**
+**ΔS → 0** is our shorthand for the direction we are building toward: order from chaos.
 
 ## Links
 
